@@ -1,4 +1,4 @@
-# chatgpt - API
+# Api-chatGPT
 
 ## Comunicação com a API da OpneAI.
 A ferramenta usa a api par pode ajudar com os principais comandos no terminal,
